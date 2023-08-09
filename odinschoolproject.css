@@ -1,0 +1,202 @@
+body{
+    border: 1px solid whitesmoke;
+    background-color:gainsboro ;
+    height: 100%;
+}
+#parent{height: 85px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    font-size: medium;
+    position: fixed;
+    top: 0px;
+    align-items: center;
+    color: whitesmoke;
+    background-color: rgb(61, 61, 66);
+
+
+}
+h1::before{content:"Agency";
+    color: yellow;
+    font-weight: 10px;
+    padding-left: 30px;
+}
+#child2{
+    display: flex;
+    padding-left: 700px;
+ 
+}
+#child3{
+    margin-left: 7px;
+    margin-right: 7px;
+    padding-left: 20px;
+}
+#child4{
+    margin-left: 7px;
+    margin-right: 7px;
+    padding-left: 20px;
+}
+#child5{
+    margin-left: 7px;
+    margin-right: 7px;
+    padding-left: 20px;
+}
+img{height: 600px;
+    width: 100%;
+
+}
+#child7{color: white;
+    font-size: 40px;
+    padding-left: 0px;
+    position: absolute;
+top: 180px;
+left: 480px;
+}
+#child8{
+    color: white;
+        position: absolute;
+    top: 250px;
+    right: 150px;
+    left: 390px;
+    
+}
+#parent2{
+
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+#child9{height: 200px;
+    width: 200px;
+
+}
+#child10{height: 200px;
+    width: 200px;
+
+
+}
+#child11{height: 200px;
+    width: 200px;
+
+}
+#parent3{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#parent4{ font-size: smaller;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;}
+
+#parent5{border: 2px solid blue;
+margin-top: 20px;}
+#parent6{ display: flex;
+
+}
+
+#child18{font-size: smaller;
+    display: flex;
+    flex-direction: column;
+
+}
+#child19{border: 1px solid black;
+    background-color: black;
+    color: white;
+    margin-top: 35px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+    
+}
+#child20{font-size: 30px;
+    margin-left:85px ;
+
+
+}
+#child21{font-size: 15px;
+    margin-left:40px ;
+    margin-right: 20px;
+    padding-left: 30px;
+
+}
+#child22{font-size: 20px;
+    margin-left:40px ;
+
+
+}
+#child23{font-size: 15px;
+    margin-left:40px ;
+    margin-left: 7px;
+
+}
+#child24{
+    color: black;
+    font-size: 30px;
+    margin-left: 40px;
+    padding-left: 40px;
+}
+#child25{border: 1px solid white;
+    width: 800px;
+    background-color: rgb(178, 185, 190);
+    color: black;
+    font-size: 15px;
+    margin-left: 70px;
+    padding-left: 40px;
+
+}
+#child26{border: 1px solid white;
+    width: 800px;
+    background-color: rgb(178, 185, 190);
+    color: black;
+    font-size: 15px;
+    margin-left: 70px;
+    padding-left: 40px;
+}
+#child27{border: 1px solid white;
+    width: 800px;
+    background-color: rgb(178, 185, 190);
+    color: black;
+    font-size: 15px;
+    margin-left: 70px;
+    padding-left: 40px;
+}
+#lokesh{
+    display: flex;
+}
+#lokesh1{border: 1px solid black;
+    height: 200px;
+    width: 140px;
+    color: white;
+    background-color: black;
+    margin-top: 115px;
+    margin-left: 250px;
+    padding-left: 50px;
+    padding-right: 100px;
+
+}
+#child28{color: white
+    ;
+background-color: green;
+font-weight: 800px;}
+
+
+
+footer{color: white;
+  background-color: darkorange;
+  font-size: 18px;
+  padding: 35px;
+text-align: center;
+position: fixed;
+
+right: 0px;
+left: 0px;
+bottom: 0px;
+
+}
+
+#waste{color: gainsboro ;
+    background-color: gainsboro ;
+}
+  
